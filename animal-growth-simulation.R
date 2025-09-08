@@ -8,7 +8,7 @@ TotalWeightGain <- 30 * DailyGain
 B <- InitialFatteningWeight + TotalWeightGain
 
 
-#Total feed intake(Kg):
+#insert Total feed intake(Kg):
 TotalFeedIntake <- 240
 #Feed Conversion Ratio (FCR)
 FCR <- round(TotalFeedIntake / TotalWeightGain, 2)
