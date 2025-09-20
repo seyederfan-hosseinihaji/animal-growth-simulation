@@ -1,3 +1,9 @@
+###################################
+# This is a practice project. Comments are deliberately detailed to enhance my learning.
+# I understand this level of commenting may be excessive for professional code.
+###################################
+
+
 #Insert Initial fattening weight here(Kg):
 InitialFatteningWeight <- 220
 #insert Average Daily Gain (ADG) here(Kg):
